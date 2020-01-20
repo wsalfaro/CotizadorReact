@@ -30,7 +30,6 @@ class App extends Component {
 
         // Dependiendo del plan a incrementar
         resultado = parseFloat( incrementoPlan * resultado ).toFixed(2);
-        console.log(resultado);
 
         // Crear objeto para el resumen
 
